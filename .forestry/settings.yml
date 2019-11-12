@@ -6,7 +6,7 @@ webhook_url: https://api.stackbit.com/project/5dcaaf1c54d012001968edfd/webhook/f
 sections:
 - type: document
   path: _config.yml
-  label: Global Site Config
+  label: Configuration Gobal
   templates:
   - config
 - type: document
@@ -16,7 +16,7 @@ sections:
   - social
 - type: document
   path: _data/author.json
-  label: Author
+  label: Auteur
   templates:
   - author
 - type: document

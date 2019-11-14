@@ -13,10 +13,9 @@ sections:
     url: "/features"
 - type: section_features
   template: section_features
-  section_id: features
-  title: Features
-  subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-    quis lorem malesuada luctus.
+  section_id: Features
+  title: Fonctionnalités
+  subtitle: Lol Mario ca va ?
   bg: gray
   featureslist:
   - title: The Best Feature of Your Services

@@ -3,6 +3,9 @@ layout: page
 title: Page de test
 subtitle: ''
 img_path: "/images/test.PNG"
+ajouter_des_tags:
+- love
+- chiens
 menu:
   main:
     weight: 2

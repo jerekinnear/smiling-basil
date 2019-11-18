@@ -19,9 +19,9 @@ footer:
   has_social: true
   social_title: Community
   has_subscribe: true
-  subscribe_title: Subscribe
-  subscribe_content: Stay up to date with our latest developments.
-  content: "&copy; Stackbit. All rights reserved."
+  subscribe_title: S'inscrire à la news letters
+  subscribe_content: Tenez vous informer de nos dernières infos
+  content: "&copy; Dogeed. All rights reserved."
   links:
   - text: "Make with \U0001F496 by Dogeed"
     url: https://dogeed.ch

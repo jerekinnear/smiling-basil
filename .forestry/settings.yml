@@ -4,6 +4,12 @@ auto_deploy: false
 admin_path: admin
 webhook_url: https://api.stackbit.com/project/5dcaaf1c54d012001968edfd/webhook/forestry
 sections:
+- type: jekyll-pages
+  label: test jeykill
+  create: all
+  match: "**/*"
+  templates:
+  - contenus-de-test
 - type: document
   path: _config.yml
   label: Configuration Gobal

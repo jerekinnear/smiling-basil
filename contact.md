@@ -8,7 +8,8 @@ sections:
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
     quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor
     pretium ligula.
-  bg: gray
+  bg: white
+  subtitle: ''
 layout: landing
 menu:
   secondary:

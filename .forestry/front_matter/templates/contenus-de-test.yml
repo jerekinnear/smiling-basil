@@ -1,4 +1,13 @@
 ---
 label: contenus de test
 hide_body: true
-fields: []
+fields:
+- name: choisissez_une_date
+  type: datetime
+  label: Choisissez une date
+  description: Séléctionner une dâte afin d'être interviewer
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false

@@ -4,7 +4,7 @@ baseurl: "/"
 permalink: "/:title/"
 palette: orange
 header:
-  title: Azimuth
+  title: Dogeed
   logo_img: "/images/txt.PNG"
   has_nav: true
   menu:

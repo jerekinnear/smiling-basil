@@ -11,3 +11,11 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+- name: contenus_de_type_block
+  type: blocks
+  label: Contenus de type Block
+  template_types:
+  - config
+  config:
+    min: 
+    max: 

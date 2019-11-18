@@ -7,7 +7,6 @@ sections:
 - type: jekyll-pages
   label: test jeykill
   create: all
-  match: "**/*"
   templates:
   - contenus-de-test
 - type: document

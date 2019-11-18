@@ -28,6 +28,10 @@ fields:
   default: []
   label: Ajouter des tags
 pages:
+- signup.md
+- style-guide.md
+- about.md
+- page-de-test.md
 - page-de-test.md
 - about.md
 - style-guide.md

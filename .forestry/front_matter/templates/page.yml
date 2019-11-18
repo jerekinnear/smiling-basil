@@ -23,6 +23,10 @@ fields:
   default: page
   config:
     required: true
+- name: ajouter_des_tags
+  type: tag_list
+  default: []
+  label: Ajouter des tags
 pages:
 - page-de-test.md
 - about.md

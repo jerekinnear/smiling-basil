@@ -24,6 +24,7 @@ fields:
   config:
     required: true
 pages:
+- page-de-test.md
 - about.md
 - style-guide.md
 - signup.md

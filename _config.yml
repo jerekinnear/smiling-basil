@@ -12,8 +12,8 @@ header:
     - label: Sign Up
       url: "/signup"
 footer:
-  logo_img: images/logo_alt.png
-  tagline: SaaS theme by Stackbit
+  logo_img: "/images/txt.PNG"
+  tagline: La communauté qui à du chien
   has_nav: true
   nav_title: Company
   has_social: true

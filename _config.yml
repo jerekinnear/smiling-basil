@@ -2,10 +2,10 @@
 title: Mon premier site jamstack
 baseurl: "/"
 permalink: "/:title/"
-palette: blue
+palette: orange
 header:
   title: Azimuth
-  logo_img: images/logo.png
+  logo_img: "/images/txt.PNG"
   has_nav: true
   menu:
     actions:

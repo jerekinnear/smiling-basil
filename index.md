@@ -9,7 +9,7 @@ sections:
     who need a sleek, modern SaaS site. '
   image: "/images/WhimsicalAnimal_05.png"
   actions:
-  - label: Learn More
+  - label: Plus d'infos
     url: "/features"
 - type: section_features
   template: section_features

@@ -159,9 +159,9 @@ fields:
 - type: list
   name: plugins
   label: Plugins
-  hidden: true
+  hidden: false
 - type: list
   name: exclude
   label: Exclude
   description: Exclude directories and/or files from the conversion.
-  hidden: true
+  hidden: false

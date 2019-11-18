@@ -31,6 +31,6 @@ sections:
 layout: landing
 menu:
   main:
-    weight: 2
+    weight: 3
 
 ---

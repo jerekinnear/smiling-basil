@@ -12,6 +12,8 @@ sections:
   subtitle: ''
 layout: landing
 menu:
+  main:
+    weight: 6
   secondary:
     weight: 4
 

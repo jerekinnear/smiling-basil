@@ -23,7 +23,7 @@ footer:
   subscribe_content: Stay up to date with our latest developments.
   content: "&copy; Stackbit. All rights reserved."
   links:
-  - text: Made with Stackbit
+  - text: "Make with \U0001F496 by Dogeed"
     url: https://www.stackbit.com
     new_window: true
 sass:
